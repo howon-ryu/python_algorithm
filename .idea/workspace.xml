@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f104c847-04db-412d-9a7c-41fdb8b8d4c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/IMPLEMENTATION/baekjoon20291.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BFS&amp;DFS/baekjoon1325.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,8 +38,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.baekjoon20291">
-    <configuration name="baekjoon1012" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.baekjoon1325">
+    <configuration name="baekjoon1325" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,7 +51,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BFS&amp;DFS/baekjoon1012.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BFS&amp;DFS/baekjoon1325.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.baekjoon1325" />
         <item itemvalue="Python.baekjoon20291" />
         <item itemvalue="Python.baekjoon18311" />
         <item itemvalue="Python.baekjoon17626" />
         <item itemvalue="Python.baekjoon13301" />
-        <item itemvalue="Python.baekjoon1012" />
       </list>
     </recent_temporary>
   </component>
