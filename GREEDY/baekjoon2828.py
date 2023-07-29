@@ -10,7 +10,7 @@ end = start+(m-1)
 
 for _ in range(j):
     apple = int(input())
-    if(apple>=start and apple<=end)
+    if(apple>=start and apple<=end):
         continue
     elif(apple>end):
         temp = apple-end
