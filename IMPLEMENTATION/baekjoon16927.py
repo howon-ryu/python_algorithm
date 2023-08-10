@@ -9,8 +9,7 @@ NUMBERS = [list(map(int, input().split())) for _ in range(N)]
 turns = []
 for k in range(min(N, M)//2):
     turns.append(2*((N-(2*k))+(M-(2*k)))-4)
-print(NUMBERS)
-print(turns)
+
 for k in range(min(N,M)//2):
     for r in range(R%turns[k]):
         temp = NUMBERS[k][k]
