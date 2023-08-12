@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f104c847-04db-412d-9a7c-41fdb8b8d4c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BINARYSEARCH/baekjoon2512.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DP/baekjoon11052.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BINARYSEARCH/baekjoon2512.py" beforeDir="false" afterPath="$PROJECT_DIR$/BINARYSEARCH/baekjoon2512.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -13,10 +13,6 @@ while start <= end:
     mid = (start+end)//2
     c = 0 # 길이가 mid인 것을 만들 수 있는 개수
 
-
-
-
-
     for i in money:
         if(i//mid>=1):
             c+=mid
