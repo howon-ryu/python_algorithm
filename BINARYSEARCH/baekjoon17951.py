@@ -12,7 +12,7 @@ while left <= right:
 
         score += s
         if score >= mid:
-            
+
             group += 1
             score = 0
     # 다음
